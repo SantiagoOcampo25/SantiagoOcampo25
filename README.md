@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Detalles sobre mí:
+Hi there, i'm Santiago 👋
 
 - 🔭 I'm a College Trainee in Globant
 - 🌱 I’m currently learning ReactJS
